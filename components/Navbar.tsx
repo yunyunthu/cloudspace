@@ -11,6 +11,7 @@ export default function Navbar() {
       {/* 右侧：链接 */}
       <div className="flex gap-6 text-sm font-medium text-gray-600">
         <Link href="/" className="hover:text-black transition">Home</Link>
+        <Link href="/blog" className="hover:text-black transition">Life & Blog</Link> {/* 新增这行 */}
         <Link href="/projects" className="hover:text-black transition">Projects</Link>
         <Link href="/about" className="hover:text-black transition">About</Link>
         <a 

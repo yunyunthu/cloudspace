@@ -1,5 +1,5 @@
 export const personalInfo = {
-    name: "Zhang San",
+    name: "Lang Yunyi",
     title: "CS Student @ Tsinghua University",
     description: "Passionate about Systems, AI, and Open Source.",
     socials: {
